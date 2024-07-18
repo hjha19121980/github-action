@@ -1,7 +1,5 @@
-name: example
-
+name: push event
 on: push
-
 jobs:
   job_1:
     runs-on: ubuntu-latest
